@@ -1,0 +1,12 @@
+.nav-link{
+    background-color: #DCEFED;
+    border-style: solid;
+    border-radius: 5px;
+    border-bottom-color:bisque ;
+    border-right-color:#DCEDEF ;
+    border-top-color:#DCEDEF ;
+    border-left-color:bisque;
+    color:teal;
+    font-style:normal;
+    
+}
